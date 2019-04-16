@@ -1,6 +1,6 @@
-# RAJJ- Software Development 1 Website
+# Team RAJJ
 
-
+Software Development 1 Website
 
 ## Description
 
@@ -20,13 +20,13 @@ Discord
 
 ## Team Roles
 
-Austin Edwards Team Manager & Client Liaison 🐉 🚥
+1) Austin Edwards: Team Manager & Client Liaison 🐉 🚥
 
-Roberto Alvarado Lead Programmer & UI/Ux design 🚙
+2) Roberto Alvarado: Lead Programmer & UI/Ux design 🚙
 
-Josue Pastore-Manzano UI/Ux design & Documantation Lead 🐣 🚥
+3) Josue Pastore-Manzano: UI/Ux design & Documantation Lead 🐣 🚥
 
-Jacob Wise Data Modeler & Testing Lead 💻 🔰
+4) Jacob Wise: Data Modeler & Testing Lead 💻 🔰
 
 ## Installation Instructions:
 
