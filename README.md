@@ -21,8 +21,11 @@ Discord
 ## Team Roles
 
 Austin Edwards Team Manager & Client Liaison 🐉 🚥
+
 Roberto Alvarado Lead Programmer & UI/Ux design 🚙
+
 Josue Pastore-Manzano UI/Ux design & Documantation Lead 🐣 🚥
+
 Jacob Wise Data Modeler & Testing Lead 💻 🔰
 
 ## Installation Instructions:
