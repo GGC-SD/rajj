@@ -1,27 +1,30 @@
-# DemoApp
+# RAJJ- Software Development 1 Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+As part of our Software Development I course with Dr. Anca Doloc-Mihu, we have been working on our Software Development 1 website. Our website will include a home page that displays Software Development projects made by students who have completed the course. The website will include many different tabs that will include information on the team members of each project, a discussion board/Blog and a FAQ page. There will be an Administrator log, that will allow them to maintain and upload the projects that will be displayed on the website.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Repo Location
 
-## Build
+GitHub Repo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Progress Tracking Tools
 
-## Running unit tests
+Trello
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Other Communication Tools
 
-## Running end-to-end tests
+Discord
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Team Roles
 
-## Further help
+Austin Edwards Team Manager & Client Liaison 🐉 🚥
+Roberto Alvarado Lead Programmer & UI/Ux design 🚙
+Josue Pastore-Manzano UI/Ux design & Documantation Lead 🐣 🚥
+Jacob Wise Data Modeler & Testing Lead 💻 🔰
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Installation Instructions:
+
+Blank for now
