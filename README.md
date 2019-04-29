@@ -30,4 +30,4 @@ Discord
 
 ## Installation Instructions:
 
-Blank for now
+We used HTML
