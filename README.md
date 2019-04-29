@@ -28,17 +28,11 @@ Discord
 ## Installation Instructions:
 
 We used HTML
-
 First you need to download Atom
-
 Then Download the folder Project2 to your Desktop
-
 Then change the link to a html to your username
-
 change the links of the htmls to your username
-
 for example <a href = "file:///Users/robertoalvarado/Desktop/Project2/home.html">
-  
-  change it to <a href = "file:///Users/yourusername/Desktop/Project2/home.html">
+change it to <a href = "file:///Users/yourusername/Desktop/Project2/home.html">
 
 
